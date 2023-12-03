@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_get_average"
+        android:title="Get The Average"
+        app:showAsAction="never"
+       />
+
+    <item
+        android:id="@+id/action_select_questions"
+        android:title="Select Number of Questions"
+        app:showAsAction="never"   />
+
+    <item
+        android:id="@+id/action_reset_results"
+        android:title="Reset Saved Results"
+        app:showAsAction="never" />
+</menu>
